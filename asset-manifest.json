@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "https://wolfofnothing.github.io/csb-27gelu/static/css/main.9f6a71e2.chunk.css",
-    "main.js": "https://wolfofnothing.github.io/csb-27gelu/static/js/main.b36d8991.chunk.js",
-    "main.js.map": "https://wolfofnothing.github.io/csb-27gelu/static/js/main.b36d8991.chunk.js.map",
+    "main.js": "https://wolfofnothing.github.io/csb-27gelu/static/js/main.55ce28f3.chunk.js",
+    "main.js.map": "https://wolfofnothing.github.io/csb-27gelu/static/js/main.55ce28f3.chunk.js.map",
     "runtime-main.js": "https://wolfofnothing.github.io/csb-27gelu/static/js/runtime-main.88bb9dfd.js",
     "runtime-main.js.map": "https://wolfofnothing.github.io/csb-27gelu/static/js/runtime-main.88bb9dfd.js.map",
-    "static/js/2.6b528338.chunk.js": "https://wolfofnothing.github.io/csb-27gelu/static/js/2.6b528338.chunk.js",
-    "static/js/2.6b528338.chunk.js.map": "https://wolfofnothing.github.io/csb-27gelu/static/js/2.6b528338.chunk.js.map",
+    "static/js/2.a37c77f1.chunk.js": "https://wolfofnothing.github.io/csb-27gelu/static/js/2.a37c77f1.chunk.js",
+    "static/js/2.a37c77f1.chunk.js.map": "https://wolfofnothing.github.io/csb-27gelu/static/js/2.a37c77f1.chunk.js.map",
     "static/js/3.8e33666a.chunk.js": "https://wolfofnothing.github.io/csb-27gelu/static/js/3.8e33666a.chunk.js",
     "static/js/3.8e33666a.chunk.js.map": "https://wolfofnothing.github.io/csb-27gelu/static/js/3.8e33666a.chunk.js.map",
     "static/js/4.781c20d2.chunk.js": "https://wolfofnothing.github.io/csb-27gelu/static/js/4.781c20d2.chunk.js",
     "static/js/4.781c20d2.chunk.js.map": "https://wolfofnothing.github.io/csb-27gelu/static/js/4.781c20d2.chunk.js.map",
     "index.html": "https://wolfofnothing.github.io/csb-27gelu/index.html",
     "static/css/main.9f6a71e2.chunk.css.map": "https://wolfofnothing.github.io/csb-27gelu/static/css/main.9f6a71e2.chunk.css.map",
-    "static/js/2.6b528338.chunk.js.LICENSE.txt": "https://wolfofnothing.github.io/csb-27gelu/static/js/2.6b528338.chunk.js.LICENSE.txt",
+    "static/js/2.a37c77f1.chunk.js.LICENSE.txt": "https://wolfofnothing.github.io/csb-27gelu/static/js/2.a37c77f1.chunk.js.LICENSE.txt",
     "static/media/AION Logo.eb6db6f2.svg": "https://wolfofnothing.github.io/csb-27gelu/static/media/AION Logo.eb6db6f2.svg",
     "static/media/CV.4215eaab.svg": "https://wolfofnothing.github.io/csb-27gelu/static/media/CV.4215eaab.svg",
     "static/media/Insta.0a43bea6.svg": "https://wolfofnothing.github.io/csb-27gelu/static/media/Insta.0a43bea6.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.88bb9dfd.js",
-    "static/js/2.6b528338.chunk.js",
+    "static/js/2.a37c77f1.chunk.js",
     "static/css/main.9f6a71e2.chunk.css",
-    "static/js/main.b36d8991.chunk.js"
+    "static/js/main.55ce28f3.chunk.js"
   ]
 }
